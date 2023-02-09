@@ -38,7 +38,7 @@ def test_order_place(page: Page):
 
     Tab.locator("#address1").fill(address1)
 
-    Tab.locator("//button[4]").click()
+    #Tab.locator("//button[4]").click()
     #Tab.get_by_text("18:00 - 22:00").click()
 
     Tab.get_by_text("Review and pay").click()

@@ -20,6 +20,6 @@ city = "Ajman"
 address1 = "Test Order"
 
 #Sign-up Data
-sign_up_email = "playwrightTest" + (random.choice(string.ascii_uppercase)) + "@gmail.com"
+sign_up_email = "playwrightTest2222" + (random.choice(string.ascii_uppercase)) + "@gmail.com"
 password = "test.123"
 confirm_password = "test.123"
